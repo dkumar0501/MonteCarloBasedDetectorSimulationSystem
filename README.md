@@ -38,7 +38,7 @@ This project is a **Python based Monte Carlo simulation framework** that models 
 | **Simulation Core** | Randomized particle–material energy transfer model |
 | **Physics Modeling** | Dose and displacement-damage estimation by material |
 | **Data Output** | CSV files: `energy_deposition.csv`, `fluence_map.csv`, `dose_response.csv` |
-| **Visualization** | Histograms, dose–response plots, and material comparisons |
+| **Visualization** | Histograms, dose response plots, and material comparisons |
 
 ---
 
