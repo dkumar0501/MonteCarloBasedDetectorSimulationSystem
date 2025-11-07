@@ -61,7 +61,7 @@ video / screenshots
 
 **Developed by [D Kumar](https://github.com/dkumar0501)** — **[IIT Patna]**
 
-
+---
 
 <p align="center">
   <em>“Simulating sensor–radiation interactions to accelerate novel detector R&amp;D.”</em>
