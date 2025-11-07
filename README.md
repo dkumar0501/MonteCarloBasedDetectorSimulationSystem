@@ -16,8 +16,7 @@
 
 ## 📘 Overview
 
-This project is a **Python based Monte Carlo style simulation framework** that models how radiation interacts with detector materials (e.g., Silicon, GaN, Diamond).  
-It computes **energy deposition, dose accumulation, and damage indices**, producing synthetic datasets and visualizations that replicate detector behavior in extreme radiation environments.  The system mirrors **radiation hardness studies at most IRRAD facility**, serving as a computational twin for sensor development and material evaluation.
+This project is a **Python based Monte Carlo style simulation framework** that models how radiation interacts with detector materials (e.g., Silicon, GaN, Diamond). It computes **energy deposition, dose accumulation, and damage indices**, producing synthetic datasets and visualizations that replicate detector behavior in extreme radiation environments.  The system mirrors **radiation hardness studies at most IRRAD facility**, serving as a computational twin for sensor development and material evaluation.
 
 ---
 
