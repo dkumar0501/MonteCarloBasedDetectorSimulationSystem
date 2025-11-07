@@ -12,13 +12,13 @@
   <img src="https://img.shields.io/badge/CERN-IRRAD%20Inspired-9cf" alt="CERN IRRAD">
 </p>
 
----
+
 
 ## 📘 Overview
 
 This project is a **Python based Monte Carlo style simulation framework** that models how radiation interacts with detector materials   (e.g., Silicon, GaN, Diamond). It computes **energy deposition, dose accumulation, and damage indices**, producing synthetic datasets and visualizations that replicate detector behavior in extreme radiation environments.  The system mirrors **radiation hardness studies at most IRRAD facility**, serving as a computational twin for sensor development and material evaluation.
 
----
+
 
 ## 🚀 Features
 
@@ -28,7 +28,7 @@ This project is a **Python based Monte Carlo style simulation framework** that m
 - Synthetic dataset export to CSV (ROOT-ready workflow compatible)  
 - Clear visualizations: dose–response curves & energy spectra
 
----
+
 
 ## 🧠 Technical Overview
 
@@ -40,13 +40,13 @@ This project is a **Python based Monte Carlo style simulation framework** that m
 | **Data Output** | CSV files: `energy_deposition.csv`, `fluence_map.csv`, `dose_response.csv` |
 | **Visualization** | Histograms, dose–response plots, and material comparisons |
 
----
+
 
 ## 📷 Project Live Working
 
 video / screenshots
 
----
+
 
 ## 🧩 Future Enhancements
 
@@ -55,13 +55,13 @@ video / screenshots
 - Inclusion of **temperature** and **dose rate** effects  
 - Optional **ROOT/PyROOT** analysis notebooks
 
----
+
 
 ## 👨‍💻 Author
 
 **Developed by [D Kumar](https://github.com/dkumar0501)** — **[IIT Patna]**
 
----
+
 
 <p align="center">
   <em>“Simulating sensor–radiation interactions to accelerate novel detector R&amp;D.”</em>
