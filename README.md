@@ -44,8 +44,8 @@ This project is a **Python based Monte Carlo style simulation framework** that m
 
 ## 📷 Project Live Working
 
-video / screenshots
 
+https://github.com/user-attachments/assets/7bec9282-503c-47e1-86de-2cf2ac4ba63a
 
 
 ## 🧩 Future Enhancements
