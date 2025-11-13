@@ -2,7 +2,7 @@
 
 <p align="left">
   <strong>Detector Physics • Python • Monte Carlo Simulation • Radiation Modeling • Geant4</strong>
-</p>
+</p> 
 
 <!-- Badges -->
 <p align="left">
