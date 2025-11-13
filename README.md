@@ -5,7 +5,7 @@
 </p> 
 
 <!-- Badges --> 
-<p align="left">
+<p align="left"> 
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Monte%20Carlo-Simulation-orange" alt="Monte Carlo">
   <img src="https://img.shields.io/badge/Detector%20Modeling-Enabled-success" alt="Detector Modeling">
