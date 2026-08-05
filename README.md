@@ -3,7 +3,7 @@
 <p align="left"> 
   <strong>Detector Physics • Python • Monte Carlo Simulation • Radiation Modeling • Geant4</strong>
 </p>         
-         
+          
 <!-- Badges -->      
 <p align="left">       
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python">    
