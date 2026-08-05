@@ -1,6 +1,6 @@
 <h1 align="left">Monte Carlo Based Detector Simulation System</h1>
  
-<p align="left"> 
+<p align="left">  
   <strong>Detector Physics • Python • Monte Carlo Simulation • Radiation Modeling • Geant4</strong>
 </p>         
           
