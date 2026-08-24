@@ -3,7 +3,7 @@ Defines the physical and radiation parameters of materials
 used for radiation-hard sensor simulations. 
 """ 
   
-MATERIALS = { 
+MATERIALS = {  
     "Silicon": {
         "density": 2.33,                 # g/cm^3
         "stopping_power": 1.0,           # relative scaling
