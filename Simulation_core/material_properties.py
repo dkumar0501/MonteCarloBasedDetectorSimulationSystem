@@ -2,7 +2,7 @@
 Defines the physical and radiation parameters of materials
 used for radiation-hard sensor simulations. 
 """  
-  
+   
 MATERIALS = {  
     "Silicon": {
         "density": 2.33,                 # g/cm^3
