@@ -1,7 +1,7 @@
 """
 Defines the physical and radiation parameters of materials
 used for radiation-hard sensor simulations. 
-""" 
+"""  
   
 MATERIALS = {  
     "Silicon": {
