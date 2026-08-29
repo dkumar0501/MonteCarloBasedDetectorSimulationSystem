@@ -2,7 +2,7 @@
 Physics-based models to compute radiation-induced damage and dose.
 """
   
-import numpy as np 
+import numpy as np  
 
 def compute_displacement_damage(energy_dep, fluence, E_disp):
     """
