@@ -4,7 +4,7 @@ and generates synthetic data if missing.
 """
  
 import os
-import pandas as pd
+import pandas as pd 
 import matplotlib.pyplot as plt
 import subprocess
 import sys
