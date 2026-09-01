@@ -35,7 +35,7 @@ print(summary)
 
 # --- Step 5: Plot histogram of energy deposition ---
 plt.figure(figsize=(8,5))
-for material in df["Material"].unique():
+for material in df["Material"].unique(): 
     subset = df[df["Material"] == material]
     plt.hist(subset["DepositedEnergy_MeV"], bins=60, alpha=0.6, label=material)
 
