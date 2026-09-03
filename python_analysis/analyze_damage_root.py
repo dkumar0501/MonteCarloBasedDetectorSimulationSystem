@@ -2,7 +2,7 @@
 Robust analysis script that auto-detects file paths
 and generates synthetic data if missing.
 """
- 
+  
 import os 
 import pandas as pd 
 import matplotlib.pyplot as plt
